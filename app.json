@@ -1,5 +1,5 @@
 {
-    "name": "Wermorn",
+    "name": "wermorn",
     "description": "Deploy Wermorn",
     "env": {
         "PASSWORD": {
